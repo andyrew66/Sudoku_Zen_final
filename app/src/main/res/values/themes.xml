@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.NoActionBar">
+
+            <item name="colorPrimary">#673AB7</item> <!-- Deep Purple 500 -->
+            <item name="colorPrimaryDark">#512DA8</item> <!-- Deep Purple 700 -->
+            <item name="colorAccent">#29B6F6</item> <!-- Light Blue 400 -->
+
+    </style>
+</resources>

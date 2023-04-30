@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cell_text_size">24sp</dimen>
+    <dimen name="cell_size">40dp</dimen>
+    <dimen name="thick_separator_width">4dp</dimen>
+    <dimen name="thin_separator_width">1dp</dimen>
+</resources>
