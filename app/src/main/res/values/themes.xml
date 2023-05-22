@@ -8,4 +8,8 @@
             <item name="colorAccent">#29B6F6</item> <!-- Light Blue 400 -->
 
     </style>
+
+    <style name="LaunchScreenTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/ic_splash</item>
+    </style>
 </resources>
